@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MariaDB",
+            "database": "quc_wd",
+            "username": "root",
+            "name": "backflow_devices",
+            "group": "2024 Cross Connection Survey",
+            "password": ""
+        }
+    ]
+}
